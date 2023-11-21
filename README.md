@@ -27,10 +27,10 @@
 </h2>
 <div>
   <a href="https://github.com/FINAL-BUSAN-2/DataPointOfView">
-    <img src="./img/Final_Project.png" width="48%" height="300" style="float: left;">
+    <img src="./img/Final_Project.png" width="49%" height="300" style="float: left;">
   </a>
   <a href="naver.com">
-  <img src="./img/Third_Project2.png" width="48%" height="300" style="float: right;">
+  <img src="./img/Third_Project2.png" width="50%" height="300" style="float: right;">
   </a>
 </div>
 
