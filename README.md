@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=4CABE5&height=200&section=header&text=SeonghoPark&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=4CABE5&height=200&section=header&text=SeonghoPark&fontSize=70" />
 </h1>
 
 <h2 align="center">
@@ -21,6 +21,10 @@
 <img src="https://img.shields.io/badge/-android-3DDC84?style=flat-square&logo=android&logoColor=white" />
 <img src="https://img.shields.io/badge/-typescript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 </p>
+
+<h2 align="center">
+💼 Project
+</h2>
 
 <h2 align="center">
 👀 ME 👀
