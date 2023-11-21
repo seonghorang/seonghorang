@@ -25,6 +25,15 @@
 <h2 align="center">
 💼 Project
 </h2>
+<div>
+  <a href="https://github.com/FINAL-BUSAN-2/DataPointOfView">
+    <img src="./img/Final_Project.png" width="48%" height="300" style="float: left;">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="naver.com">
+  <img src="./img/Third_Project.png" width="48%" height="300" style="float: right;">
+  </a>
+</div>
 
 <h2 align="center">
 👀 ME 👀
