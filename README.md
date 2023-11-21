@@ -30,7 +30,7 @@
     <img src="./img/Final_Project.png" width="48%" height="300" style="float: left;">
   </a>
   <a href="naver.com">
-  <img src="./img/Third_Project.png" width="48%" height="300" style="float: right;">
+  <img src="./img/Third_Project2.png" width="48%" height="300" style="float: right;">
   </a>
 </div>
 
