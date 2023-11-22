@@ -29,7 +29,7 @@
   <a href="https://github.com/FINAL-BUSAN-2/DataPointOfView">
     <img src="./img/Final_Project.png" width="49%" height="300" style="float: left;">
   </a>
-  <a href="naver.com">
+  <a href="https://github.com/seonghorang/Third_Project">
   <img src="./img/Third_Project2.png" width="50%" height="300" style="float: right;">
   </a>
 </div>
