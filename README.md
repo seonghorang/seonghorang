@@ -22,6 +22,7 @@
 <img src="https://img.shields.io/badge/-typescript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 </p>
 
+<br>
 <h2 align="center">
 💼 Project
 </h2>
@@ -34,6 +35,7 @@
   </a>
 </div>
 
+<br>
 <h2 align="center">
 👀 ME 👀
 </h2>
