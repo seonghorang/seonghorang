@@ -46,7 +46,7 @@
 
 <br>
 <h2 align="center">
-👀 ME 👀
+👀 ME
 </h2>
 <p align="center">
   <a href="https://shorang.tistory.com/" style="display: inline-block;">
