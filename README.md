@@ -28,18 +28,18 @@
 </h2>
 <div>
   <a href="https://github.com/FINAL-BUSAN-2/DataPointOfView">
-    <img src="./img/Final_Project.png" width="49%" height="300" style="float: left;">
+    <img src="./img/Final_Project.png" width="49%" height="280" style="float: left;">
   </a>
   <a href="https://github.com/seonghorang/Third_Project">
-  <img src="./img/Third_Project2.png" width="50%" height="300" style="float: right;">
+  <img src="./img/Third_Project2.png" width="50%" height="280" style="float: right;">
   </a>
 </div>
 <div>
   <a href="https://github.com/hodu31/miniproject">
-    <img src="./img/Second_Project.png" width="49%" height="300" style="float: left;">
+    <img src="./img/Second_Project.png" width="49%" height="280" style="float: left;">
   </a>
   <a href="https://github.com/seonghorang/Third_Project">
-  <img src="./img/First_Project.png" width="50%" height="300" style="float: right;">
+  <img src="./img/First_Project.png" width="50%" height="280" style="float: right;">
   </a>
 </div>
 
