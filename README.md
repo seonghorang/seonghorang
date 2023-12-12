@@ -42,7 +42,11 @@
   <img src="./img/First_Project.png" width="50%" height="280" style="float: right;">
   </a>
 </div>
-
+<!-- <div>
+    <a href="https://github.com/seonghorang/BDIA-Hackathon">
+    <img src="./img/hackathon.png" width="50%" height="280" style="float: right;">
+    </a>
+</div> -->
 
 <br>
 <h2 align="center">
