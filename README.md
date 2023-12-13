@@ -42,14 +42,23 @@
   <img src="./img/First_Project.png" width="50%" height="280" style="float: right;">
   </a>
 </div>
+
 <br>
 <h2 align="center">
 💡 extracurricular activities
 </h2>
 <div>
-    <a href="https://github.com/seonghorang/BDIA-Hackathon">
-    <img src="./img/hackathon.png" width="50%" height="280" style="float: right;">
-    </a>
+  <a href="https://github.com/seonghorang/BDIA-Hackathon">
+    <img src="./img/hackathon.png" width="49%" height="280" style="float: right;">
+  </a>
+  <a href="https://github.com/seonghorang/BDIA-Dev-Contest">
+    <img src="./img/dpv.png" width="50%" height="280" style="float: right;">
+  </a>
+</div>
+<div>
+  <a href="https://github.com/seonghorang/First_Project">
+    <img src="./img/First_Project.png" width="49%" height="280" style="float: right;">
+  </a>
 </div>
 
 <br>
