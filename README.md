@@ -42,7 +42,8 @@
   <img src="./img/First_Project.png" width="50%" height="280" style="float: right;">
   </a>
 </div>
-
+<!-- 해행 그림 수정 -->
+<!-- 개인 프로젝트 추가 -->
 <br>
 <h2 align="center">
 💡 extracurricular activities
@@ -60,6 +61,7 @@
     <img src="./img/First_Project.png" width="49%" height="280" style="float: right;">
   </a>
 </div>
+<!-- 해커톤 추가 -->
 
 <br>
 <h2 align="center">
