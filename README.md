@@ -17,15 +17,22 @@
 <br>
 <img src="https://img.shields.io/badge/-plotly-E97627?style=flat-square&logo=plotly&logoColor=white" />
 <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=React&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/-android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/-typescript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 </p>
 
 <br>
 <h2 align="center">
 💼 Project
 </h2>
+<div>
+  <a href="https://github.com/seonghorang/Recipe">
+    <img src="assets/main.png" width="49%" height="280" style="float: left;">
+  </a>
+  <a href="https://github.com/seonghorang/First_Project">
+  <img src="./img/First_Project.png" width="50%" height="280" style="float: right;">
+  </a>
+</div>
 <div>
   <a href="https://github.com/FINAL-BUSAN-2/DataPointOfView">
     <img src="./img/Final_Project.png" width="49%" height="280" style="float: left;">
@@ -42,6 +49,7 @@
   <img src="./img/First_Project.png" width="50%" height="280" style="float: right;">
   </a>
 </div>
+
 
 <!-- 개인 프로젝트 추가 -->
 <br>
