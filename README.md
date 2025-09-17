@@ -22,33 +22,86 @@
 </p>
 
 <br>
+
 <h2 align="center">
 💼 Project
 </h2>
+
+
 <div>
+  
+  ## 1. Racipe_manager
+  핸드드립 레시피와 요리 레시피를 효율적으로 관리하고, 일본어 회화 학습을 지원하는 **Flutter 기반 모바일 애플리케이션**
+  
   <a href="https://github.com/seonghorang/Recipe">
-    <img src="./img/recipe_manager.png" width="49%" height="280" style="float: left;">
+    
+![Recipe_manager Screenshot](./img/recipe_manager.png)
+
   </a>
-  <!-- 변경해야함 -->
-  <a href="https://github.com/seonghorang/First_Project">
-  <img src="./img/First_Project.png" width="50%" height="280" style="float: right;">
-  </a>
+
+#### 🛠 Tech Stack
+
+- **Language:** `Python`  
+- **Frontend:** `Flutter` (Dart), `fl_chart` (데이터 시각화), `just_audio` (오디오 재생), `record` (오디오 녹음)
+- **Backend**: `Firebase Firestore` (실시간 NoSQL 데이터베이스), `Firebase Storage` (오디오 파일 저장), `Firebase Cloud Functions` (서버리스 백엔드 로직), `Firebase Cloud Messaging` (푸시 알림)
+- **Version Control**: GitHub
+
+---
 </div>
 <div>
+  
+  ## 2. 헬스케어 앱 서비스 개발
+  건강한 습관, 올바른 영양 섭취, 즐거운 헬스케어를 도와줄 **빅데이터 & AI활용 헬스케어 앱 서비스**
+  
   <a href="https://github.com/FINAL-BUSAN-2/DataPointOfView">
     <img src="./img/Final_Project.png" width="49%" height="280" style="float: left;">
   </a>
-  <a href="https://github.com/seonghorang/Third_Project">
-  <img src="./img/Third_Project2.png" width="50%" height="280" style="float: right;">
-  </a>
+
+#### 🛠 Tech Stack
+
+- **Language:** `Python` (FastAPI),  `JavaScript/TypeScript` (React Native)
+- **Frontend:** `React Native` (크로스플랫폼)
+- **Backend/Data Processing**: `FastAPI` (RESTful API), `Hadoop` (대규모 데이터 처리 및 분산 스토리지), `Spark` (대용량 데이터 분석 및 처리), `MariaDB` (관계형 데이터베이스)
+- **Tools/Deployment**: `Airflow` (데이터 워크플로우 스케줄링), `Jenkins` (배포 자동화), `Git` (버전 관리), `Slack` (팀 커뮤니케이션)
+
+---
 </div>
 <div>
+  
+  ## 3. 건강기능식품 복용 분석 프로젝트
+  
+  건강기능 식품의 추천 및 효능과 용법을 제공하는 **Django 기반 건강기능식품 분석**
+  
   <a href="https://github.com/hodu31/miniproject">
     <img src="./img/Second_Project.png" width="49%" height="280" style="float: left;">
   </a>
+
+#### 🛠 Tech Stack
+
+- **Language:** `Python`
+- **Framework/Database:** `Django`, `Oracle`
+- **Data Analysis/Visualization**: `Pandas`, `NumPy`, `Matplotlib`, `Folium`
+- **Tools/Deployment**: `Jupyter Notebook`, `Openpyxl`, `Pytest`, `Git`
+
+---
+</div>
+<div>
+  
+  ## 4. 해행(海幸)
+  안전에 대한 경각심을 일깨워주면서 즐기기 좋은 해양 정보를 제공하는 **웹 스크래핑 & Open API 활용 해양 정보 분석**
+  
   <a href="https://github.com/seonghorang/First_Project">
-  <img src="./img/First_Project.png" width="50%" height="280" style="float: right;">
+    <img src="./img/First_Project.png" width="49%" height="280" style="float: left;">
   </a>
+
+#### 🛠 Tech Stack
+
+- **Language:** `Python`
+- **Data Collection:** `BeautifulSoup`, `Selenium`, `Open API` (자외선, 체감온도, 전국 해수욕장 실시간 상태, 해파리)
+- **Data Processing/Visualization**: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Folium`, `Excel`
+- **Collaboration Tools**: `Notion`, `Slack`, `Google Drive`
+
+---
 </div>
 
 <br>
@@ -56,17 +109,45 @@
 💡 extracurricular activities
 </h2>
 <div>
-  <a href="https://github.com/seonghorang/BDIA-Hackathon">
-    <img src="./img/hackathon.png" width="49%" height="280" style="float: right;">
-  </a>
+  
+  ## 🏆 Dev Contest (2023)
+  
   <a href="https://github.com/seonghorang/BDIA-Dev-Contest">
     <img src="./img/dpv.png" width="50%" height="280" style="float: right;">
   </a>
+
+- **참여:** 빅데이터 기반 서비스 아이디어 경진대회
+- **성과:** 베스트테크상 수, K-fold Cross Validation 및 Data Visualization 담당
+- **Tech:** `Python`, `Pandas`, `Numpy`, `OpenCV`, `Plotly`, `Matplotlib`, `seaborn`, `TensorFlow`, `Scikit-learn`, `Dlib`
+  
+---
 </div>
 <div>
+  
+  ## 💡 BDIA Hackathon (2023)
+  
+  <a href="https://github.com/seonghorang/BDIA-Hackathon">
+    <img src="./img/hackathon.png" width="49%" height="280" style="float: right;">
+  </a>
+
+- **참여:** `CLOVA Studio`를 활용한 서비스 MVP 개발, 5인 팀 프로젝트
+- **성과:** `Text-To-Image` 및 감정분석 모델 개발
+- **Tech:** `Python`, `Pandas`, `Numpy`, `Django`, `FastAPI`, `ncloud`(CLOVA Sentiment, CLOVA Studio, CLOVA Summary)
+---
+</div>
+<div>
+  
+  ## 💡 ICT Biz Idea Contest (2023)
+  
   <a href="https://github.com/seonghorang/First_Project">
     <img src="./img/First_Project.png" width="49%" height="280" style="float: right;">
   </a>
+
+- **참여:** 제4회 ICT 비즈니스 모델 아이디어 경진대회
+- **성과:** 아이디어 기획 및 데이터 기반 서비스 모델 제안, 데이터 수집
+- **Tech:** `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `BeautifulSoup`, `Selenium`, `Open API`
+  
+---
 </div>
 
 
