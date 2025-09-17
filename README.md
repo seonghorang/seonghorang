@@ -116,8 +116,8 @@
     <img src="./img/dpv.png" width="50%" height="280" style="float: right;">
   </a>
 
-- **참여:** 빅데이터 기반 서비스 아이디어 경진대회
-- **성과:** 베스트테크상 수, K-fold Cross Validation 및 Data Visualization 담당
+- **참여:** 빅데이터 기반 서비스 아이디어 경진대회, 8인 팀 프로젝트
+- **성과:** 베스트테크상 수상, K-fold Cross Validation 및 Data Visualization 담당
 - **Tech:** `Python`, `Pandas`, `Numpy`, `OpenCV`, `Plotly`, `Matplotlib`, `seaborn`, `TensorFlow`, `Scikit-learn`, `Dlib`
   
 ---
@@ -143,7 +143,7 @@
     <img src="./img/First_Project.png" width="49%" height="280" style="float: right;">
   </a>
 
-- **참여:** 제4회 ICT 비즈니스 모델 아이디어 경진대회
+- **참여:** 제4회 ICT 비즈니스 모델 아이디어 경진대회, 4인 팀 프로젝트
 - **성과:** 아이디어 기획 및 데이터 기반 서비스 모델 제안, 데이터 수집
 - **Tech:** `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `BeautifulSoup`, `Selenium`, `Open API`
   
