@@ -29,6 +29,7 @@
   <a href="https://github.com/seonghorang/Recipe">
     <img src="./img/recipe_manager.png" width="49%" height="280" style="float: left;">
   </a>
+  <!-- 변경해야함 -->
   <a href="https://github.com/seonghorang/First_Project">
   <img src="./img/First_Project.png" width="50%" height="280" style="float: right;">
   </a>
@@ -50,8 +51,6 @@
   </a>
 </div>
 
-
-<!-- 개인 프로젝트 추가 -->
 <br>
 <h2 align="center">
 💡 extracurricular activities
