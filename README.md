@@ -7,11 +7,10 @@
 안녕하세요! 👋
 <br><br>
 저는 데이터 엔지니어링과 데이터 분석에 관심이 많은 **박성호**입니다.
-<br><br>
+<br>
 
 <div style="display: flex; align-items: flex-start;">
 <div style="flex-shrink: 0; margin-right: 24px;">
-<img src="./img/profile.jpg" alt="프로필 이미지" style="width: 280px; height: auto; display: block; border: none; outline: none; margin: 0; padding: 0;">
 </div>
 <div style="flex-grow: 1; min-width: 0;">
 <br>
