@@ -13,7 +13,7 @@
 <div style="flex-grow: 1; min-width: 0;">
 <br>
   
-**목차**
+**目次**
       
 - **[1. 使用技術 (MY Tech Stack)](#1)**
 - **[2. プロジェクト](#2)**
